@@ -1,0 +1,47 @@
+﻿<div class="py-2 border-b border-gray-300">
+    <img src="/images/logo.svg" alt="LapoClone Logo" />
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column px-3 my-8">
+                    <div class="flex items-center gap-2 nav-link mb-4">
+                        <img src="/images/dashboard.svg" alt="Dashboard" />
+        <NavLink class="hover:text-blue-700 text-black/50 capitalize" href="" Match="NavLinkMatch.All">
+            Dashboard
+        </NavLink>
+                    </div>
+
+        <p class="uppercase font-light text-xs text-black/60"> main menu </p>
+        @* Navigation menu items *@
+        @foreach (var item in menuItems) {
+            <div class="flex items-center gap-2 nav-link my-3">
+             <img src="@item.Icon" alt="@item.Text" />
+            <NavLink class="hover:text-blue-700 text-black/50 capitalize" href="@item.Url" Match="NavLinkMatch.All">
+                @item.Text
+            </NavLink>
+            </div>
+        }
+    </nav>
+</div>
+
+@code {
+@using LapoClone.Components.Constants
+
+    private List<NavbarItems> menuItems = new List<NavbarItems>
+    {
+        new NavbarItems { Text = "branches", Url = "branches", Icon = "/images/navbar/branches.svg" },
+        new NavbarItems { Text = "roles", Url = "roles", Icon = "images/navbar/roles.svg" },
+        new NavbarItems { Text = "users", Url = "users", Icon = "images/navbar/users.svg" },
+        new NavbarItems { Text = "card scheme", Url = "card-scheme", Icon = "images/navbar/card-scheme.svg" },
+        new NavbarItems { Text = "card profile", Url = "card-profile", Icon = "images/navbar/card-profile.svg" },
+        new NavbarItems { Text = "card request", Url = "card-request", Icon = "images/navbar/card-request.svg" },
+        new NavbarItems { Text = "stock", Url = "stock", Icon = "images/navbar/stock.svg" },
+        new NavbarItems { Text = "cards", Url = "cards", Icon = "images/navbar/card.svg" },
+        new NavbarItems { Text = "authorization list", Url = "auth-list", Icon = "images/navbar/auth-list.svg" },
+        new NavbarItems { Text = "authorization queue", Url = "auth-queue", Icon = "images/navbar/auth-queue.svg" },
+        new NavbarItems { Text = "trail", Url = "trail", Icon = "images/navbar/trail.svg" },
+        new NavbarItems { Text = "account", Url = "user", Icon = "images/navbar/account.svg" },
+    }; 
+}

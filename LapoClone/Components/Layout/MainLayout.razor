@@ -1,0 +1,38 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar border border-gray-300">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="p-4 border-b border-gray-300 h-fit md:h-[62px] flex flex-col gap-4 md:gap-0 md:flex-row justify-between items-center w-full">
+            <div class="flex items-center gap-2">
+                <img src="/images/dashboard.svg" alt="Dashboard Icon" />
+                <h6 class="text-md font-light"> Dashboard </h6>
+            </div>
+            <div class="flex gap-4 items-center">
+                <div class="rounded-full border border-gray-300 py-1 px-3 flex gap-2 items-center">
+                    <img src="/images/search.svg" alt="Search icon" />
+                    <input type="text" name="name" value="" class="flex-1" placeholder="Search..." />
+                </div>
+                <NavLink class="cursor-pointer" href="notifications" Match="NavLinkMatch.All">
+                    <img src="/images/notifications.svg" alt="Notifications" />
+                </NavLink>
+                <NavLink class="cursor-pointer" href="user" Match="NavLinkMatch.All">
+                    <img src="/images/user.svg" alt="User Account" />
+                </NavLink>
+            </div>
+        </div>
+
+        <article class="content px-4 min-h-screen" style="background-color: rgba(241, 247, 255, 0.5);">
+            @Body
+        </article>
+    </main>
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>

@@ -1,0 +1,36 @@
+﻿
+<div class="my-1">
+	<div class="flex flex-col gap-4 md:gap-0 md:flex-row justify-between items-start mb-4">
+		<div class="text-black">
+			<h3 class="font-medium text-xl"> Hi Nazeer, what would you like to do today? </h3>
+			<p class="text-sm mt-2 font-medium">Last login: <span class="font-light"> 26/11/2024  14:39:58 </span></p>
+		</div>
+		<div class="border border-gray-300 rounded-md py-2 px-3 flex gap-2 items-center text-xs w-fit">
+			<div class="flex gap-2 items-center">
+				<img src="/images/calendar.svg" class="w-5 h-5" alt="Calendar Icon" />
+				<p class="font-medium"> Today </p>
+			</div>
+			<div class="bg-gray-300 w-[1px] h-[15px] rounded-full"></div>
+			<p class="font-light"> @DateTime.Now.ToString("dd MMM yyyy") </p>
+		</div>
+	</div>
+
+	<div class="bg-white border border-gray-300 rounded-lg px-3 py-4">
+		<h4 class="text-lg mb-4"> Your Quick Access </h4>
+		<div class="flex gap-2 flex-wrap lg:justify-between">
+			@foreach (var feature in features) {
+	          <CardFeature Icon="@feature.Icon" Feature="@feature.Feature" Url="@feature.Url" />
+			}
+		</div>
+	</div>
+</div>
+
+@code {
+	private List<CardFeature> features = new List<CardFeature>
+	{
+		new CardFeature { Feature = "Manage a Card", Icon = "/images/quick-access/manage-card.svg", Url = "card-profile" },
+		new CardFeature { Feature = "Issue Instant Card", Icon = "/images/quick-access/instant-card.svg", Url = "card-scheme" },
+		new CardFeature { Feature = "Issue Personalized Card", Icon = "/images/quick-access/personalized-card.svg", Url = "card-profile" },
+		new CardFeature { Feature = "Review Card Requests", Icon = "/images/quick-access/review-card-requests.svg", Url = "card-request" },
+	};
+}

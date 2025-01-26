@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LapoClone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LapoClone.oi8kh4dftg.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\dashboard.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\account.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\account.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\auth-list.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\auth-list.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\auth-queue.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\auth-queue.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\branches.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\branches.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\card-profile.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\card-profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\card-request.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\card-request.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\card-scheme.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\card-scheme.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\card.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\card.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\roles.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\roles.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\stock.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\stock.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\trail.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\trail.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\navbar\\users.svg",
+      "PackagePath": "staticwebassets\\images\\navbar\\users.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\notifications.svg",
+      "PackagePath": "staticwebassets\\images\\notifications.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\search.svg",
+      "PackagePath": "staticwebassets\\images\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LapoClone.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LapoClone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LapoClone.props",
+      "PackagePath": "build\\LapoClone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LapoClone.props",
+      "PackagePath": "buildMultiTargeting\\LapoClone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LapoClone.props",
+      "PackagePath": "buildTransitive\\LapoClone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

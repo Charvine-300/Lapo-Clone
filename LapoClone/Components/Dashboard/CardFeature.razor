@@ -1,0 +1,19 @@
+﻿
+<NavLink class="p-3 rounded-md bg-blue-50 flex gap-3 cursor-pointer items-center md:w-[24%]" href="@Url" Match="NavLinkMatch.All">
+	<img src="@Icon" alt="@Feature" />
+	<div class="flex gap-2 items-center">
+		<p> @Feature </p>
+		<img src="/images/chevron-right.svg" alt="Chevron Right" />
+	</div>
+</NavLink>
+
+@code {
+	[Parameter]
+	public string Icon { get; set; }
+
+	[Parameter]
+	public string Feature { get; set; }
+
+	[Parameter]
+	public string Url { get; set; }
+}
