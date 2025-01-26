@@ -36,6 +36,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXNoYm9hcmRcSW50cm9TZWN0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/HeadSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/Pages/Branches.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCcmFuY2hlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/Pages/Roles.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSb2xlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/Pages/Weather.razor]

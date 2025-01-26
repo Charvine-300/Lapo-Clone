@@ -21,8 +21,24 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\add.svg",
+      "PackagePath": "staticwebassets\\images\\add.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\calendar.svg",
+      "PackagePath": "staticwebassets\\images\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\images\\chevron-right.svg"
+    },
+    {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\dashboard.svg",
       "PackagePath": "staticwebassets\\images\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\file-upload.svg",
+      "PackagePath": "staticwebassets\\images\\file-upload.svg"
     },
     {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\logo.svg",
@@ -81,8 +97,28 @@
       "PackagePath": "staticwebassets\\images\\notifications.svg"
     },
     {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\quick-access\\instant-card.svg",
+      "PackagePath": "staticwebassets\\images\\quick-access\\instant-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\quick-access\\manage-card.svg",
+      "PackagePath": "staticwebassets\\images\\quick-access\\manage-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\quick-access\\personalized-card.svg",
+      "PackagePath": "staticwebassets\\images\\quick-access\\personalized-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\quick-access\\review-card-requests.svg",
+      "PackagePath": "staticwebassets\\images\\quick-access\\review-card-requests.svg"
+    },
+    {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\search.svg",
       "PackagePath": "staticwebassets\\images\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\update.svg",
+      "PackagePath": "staticwebassets\\images\\update.svg"
     },
     {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\user.svg",

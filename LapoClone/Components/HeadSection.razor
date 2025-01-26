@@ -1,0 +1,67 @@
+﻿<div class="flex justify-between items-start my-1">
+	<div>
+		<h1 class="text-xl font-bold">@Heading</h1>
+		<p class="mt-2 text-md font-light">@Description</p>
+	</div>
+
+	@if (MiscAction != null) 
+	{
+		<button class="bg-white flex gap-2 items-center py-2 px-3 rounded-md border border-gray-300 "> 
+			@if (MiscActionImg != null)
+			{
+				<img src="@MiscActionImg" alt="@MiscAction" />
+			}
+			<p class="font-light text-sm capitalize"> @MiscAction </p>
+		</button>
+	}
+</div>
+
+<div class="border-y border-gray-300 py-3 mt-2 flex justify-between items-center">
+	@if (AddSearch)
+	{
+		<div class="bg-white rounded-md border border-gray-300 py-2 px-3 flex gap-2 items-center w-[200px] lg:w-[320px]">
+			<img src="/images/search.svg" alt="Search icon" />
+			<input type="text" name="name" value="" class="flex-1 placeholder:lowercase" placeholder="Search @Heading" />
+		</div>
+	}
+
+	<div class="flex gap-3 items-center">
+		<button class="bg-blue-800 flex gap-2 items-center py-2 px-3 rounded-md border border-gray-300 ">
+			<img src="/images/add.svg" alt="@PrimaryAction" />
+			<p class="font-light text-sm capitalize text-white"> @PrimaryAction </p>
+		</button>
+		@if (SecondaryAction != null) 
+		{
+			<button class="bg-white flex gap-2 items-center py-2 px-3 rounded-md border border-gray-300 ">
+				<img src="@SecondaryActionImg" alt="@SecondaryAction" />
+				<p class="font-light text-sm capitalize"> @SecondaryAction </p>
+			</button>
+		}
+	</div>
+</div>
+
+@code {
+	[Parameter]
+	public string Heading { get; set; }
+
+	[Parameter]
+	public string Description { get; set; }
+
+	[Parameter]
+	public string PrimaryAction { get; set; }
+
+	[Parameter]
+	public string SecondaryAction { get; set; } = null;
+
+	[Parameter]
+	public string SecondaryActionImg { get; set; } = null;
+
+	[Parameter]
+	public string MiscAction { get; set; } = null;
+
+	[Parameter]
+	public string MiscActionImg { get; set; } = null;
+
+	[Parameter]
+	public bool AddSearch { get; set; } = false;
+}

@@ -16,9 +16,9 @@
         <p class="uppercase font-light text-xs text-black/60"> main menu </p>
         @* Navigation menu items *@
         @foreach (var item in menuItems) {
-            <div class="flex items-center gap-2 nav-link my-3">
+            <div class="flex items-center gap-2 nav-link my-3 hover:bg-blue-50 hover:text-blue-700  cursor-pointer">
              <img src="@item.Icon" alt="@item.Text" />
-            <NavLink class="hover:text-blue-700 text-black/50 capitalize" href="@item.Url" Match="NavLinkMatch.All">
+            <NavLink class="text-black/50 capitalize" href="@item.Url" Match="NavLinkMatch.All">
                 @item.Text
             </NavLink>
             </div>

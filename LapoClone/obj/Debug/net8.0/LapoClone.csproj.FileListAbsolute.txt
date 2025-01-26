@@ -12,6 +12,7 @@ C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.AssemblyInfo.cs
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.csproj.CoreCompileInputs.cache
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.sourcelink.json
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\scopedcss\bundle\LapoClone.styles.css
@@ -25,9 +26,9 @@ C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\staticweba
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LapoClone.props
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LapoClone.props
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.dll
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\refint\LapoClone.dll
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.pdb
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\LapoClone.genruntimeconfig.cache
 C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\ref\LapoClone.dll
+C:\Users\marvi\Desktop\Mercrator\LapoClone\LapoClone\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

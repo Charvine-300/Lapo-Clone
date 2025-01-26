@@ -2,7 +2,11 @@ wwwroot\app.css
 wwwroot\bootstrap\bootstrap.min.css
 wwwroot\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
+wwwroot\images\add.svg
+wwwroot\images\calendar.svg
+wwwroot\images\chevron-right.svg
 wwwroot\images\dashboard.svg
+wwwroot\images\file-upload.svg
 wwwroot\images\logo.svg
 wwwroot\images\navbar\account.svg
 wwwroot\images\navbar\auth-list.svg
@@ -17,5 +21,10 @@ wwwroot\images\navbar\stock.svg
 wwwroot\images\navbar\trail.svg
 wwwroot\images\navbar\users.svg
 wwwroot\images\notifications.svg
+wwwroot\images\quick-access\instant-card.svg
+wwwroot\images\quick-access\manage-card.svg
+wwwroot\images\quick-access\personalized-card.svg
+wwwroot\images\quick-access\review-card-requests.svg
 wwwroot\images\search.svg
+wwwroot\images\update.svg
 wwwroot\images\user.svg
