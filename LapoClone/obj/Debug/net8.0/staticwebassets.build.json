@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H7w+CkISVQxlBAveC4NfliP112ymomy8MS/MEqEaVws=",
+  "Hash": "aIz9HnzVmtFzJe8E7KT2Ath2pAuVRwOpoZcD+Ld6Dd8=",
   "Source": "LapoClone",
   "BasePath": "_content/LapoClone",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "046263d840",
-      "Integrity": "kPKqud91w/3RfaqQx5OgR2sE/MZlTuzEAk7hCOq8uyg=",
+      "Fingerprint": "lx8ofjlxn1",
+      "Integrity": "x5HWl2qe3ab5xeEG4KGokdkVL1VPqduNO1ADuc7ECNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -185,6 +185,111 @@
       "OriginalItemSpec": "wwwroot\\images\\calendar.svg"
     },
     {
+      "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\active-cards.svg",
+      "SourceId": "LapoClone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\",
+      "BasePath": "_content/LapoClone",
+      "RelativePath": "images/card-stats/active-cards#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rca15giuzb",
+      "Integrity": "VRALtwyzJcC6+IuHlmP9jrg5p4LVq0LV42e2aKWdHUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\card-stats\\active-cards.svg"
+    },
+    {
+      "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\personalized-cards.svg",
+      "SourceId": "LapoClone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\",
+      "BasePath": "_content/LapoClone",
+      "RelativePath": "images/card-stats/personalized-cards#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0ilkpashg",
+      "Integrity": "bYYwd2rLNPc8uOW/vLMiI+oXBPnxAz5ga3mZOn5Kjs0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\card-stats\\personalized-cards.svg"
+    },
+    {
+      "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\requests.svg",
+      "SourceId": "LapoClone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\",
+      "BasePath": "_content/LapoClone",
+      "RelativePath": "images/card-stats/requests#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "evmg44zwbd",
+      "Integrity": "NuScPWlNM+WdzykSra3p0bgLFdRnLkphMImMTdK/ze4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\card-stats\\requests.svg"
+    },
+    {
+      "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\revenue.svg",
+      "SourceId": "LapoClone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\",
+      "BasePath": "_content/LapoClone",
+      "RelativePath": "images/card-stats/revenue#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9oeyyergy9",
+      "Integrity": "N3cKetzWUzvT5Vc4jsvZaGChWrxH0Bh6JgIljTJZbc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\card-stats\\revenue.svg"
+    },
+    {
+      "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\caution.svg",
+      "SourceId": "LapoClone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\",
+      "BasePath": "_content/LapoClone",
+      "RelativePath": "images/caution#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uak4zcou0u",
+      "Integrity": "xvKg40RHEdlmz6m7HwLi5r1+w0n8neB0nwObSFIwLPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\caution.svg"
+    },
+    {
       "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\chevron-right.svg",
       "SourceId": "LapoClone",
       "SourceType": "Discovered",
@@ -267,6 +372,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\file-upload.svg"
+    },
+    {
+      "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\green-arrow.svg",
+      "SourceId": "LapoClone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\",
+      "BasePath": "_content/LapoClone",
+      "RelativePath": "images/green-arrow#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vsmgtcx0y6",
+      "Integrity": "kStiSMBwSgnjK6Q3K9w8vGg/G4IdP5mWo69pp2vtIdQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\green-arrow.svg"
     },
     {
       "Identity": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\logo.svg",
@@ -733,51 +859,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.046263d840.css",
-      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2560"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kPKqud91w/3RfaqQx5OgR2sE/MZlTuzEAk7hCOq8uyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 14:16:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "046263d840"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kPKqud91w/3RfaqQx5OgR2sE/MZlTuzEAk7hCOq8uyg="
-        }
-      ]
-    },
-    {
       "Route": "app.css",
       "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\app.css",
       "Selectors": [],
@@ -788,7 +869,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2560"
+          "Value": "3249"
         },
         {
           "Name": "Content-Type",
@@ -796,11 +877,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kPKqud91w/3RfaqQx5OgR2sE/MZlTuzEAk7hCOq8uyg=\""
+          "Value": "\"x5HWl2qe3ab5xeEG4KGokdkVL1VPqduNO1ADuc7ECNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 14:16:57 GMT"
+          "Value": "Mon, 27 Jan 2025 06:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -810,7 +891,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kPKqud91w/3RfaqQx5OgR2sE/MZlTuzEAk7hCOq8uyg="
+          "Value": "sha256-x5HWl2qe3ab5xeEG4KGokdkVL1VPqduNO1ADuc7ECNM="
+        }
+      ]
+    },
+    {
+      "Route": "app.lx8ofjlxn1.css",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5HWl2qe3ab5xeEG4KGokdkVL1VPqduNO1ADuc7ECNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 06:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lx8ofjlxn1"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5HWl2qe3ab5xeEG4KGokdkVL1VPqduNO1ADuc7ECNM="
         }
       ]
     },
@@ -1225,6 +1351,416 @@
       ]
     },
     {
+      "Route": "images/card-stats/active-cards.rca15giuzb.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\active-cards.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRALtwyzJcC6+IuHlmP9jrg5p4LVq0LV42e2aKWdHUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rca15giuzb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/card-stats/active-cards.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRALtwyzJcC6+IuHlmP9jrg5p4LVq0LV42e2aKWdHUQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/active-cards.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\active-cards.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRALtwyzJcC6+IuHlmP9jrg5p4LVq0LV42e2aKWdHUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRALtwyzJcC6+IuHlmP9jrg5p4LVq0LV42e2aKWdHUQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/personalized-cards.d0ilkpashg.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\personalized-cards.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYYwd2rLNPc8uOW/vLMiI+oXBPnxAz5ga3mZOn5Kjs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0ilkpashg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/card-stats/personalized-cards.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYYwd2rLNPc8uOW/vLMiI+oXBPnxAz5ga3mZOn5Kjs0="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/personalized-cards.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\personalized-cards.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYYwd2rLNPc8uOW/vLMiI+oXBPnxAz5ga3mZOn5Kjs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYYwd2rLNPc8uOW/vLMiI+oXBPnxAz5ga3mZOn5Kjs0="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/requests.evmg44zwbd.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\requests.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NuScPWlNM+WdzykSra3p0bgLFdRnLkphMImMTdK/ze4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "evmg44zwbd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/card-stats/requests.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NuScPWlNM+WdzykSra3p0bgLFdRnLkphMImMTdK/ze4="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/requests.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\requests.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NuScPWlNM+WdzykSra3p0bgLFdRnLkphMImMTdK/ze4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NuScPWlNM+WdzykSra3p0bgLFdRnLkphMImMTdK/ze4="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/revenue.9oeyyergy9.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\revenue.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3cKetzWUzvT5Vc4jsvZaGChWrxH0Bh6JgIljTJZbc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9oeyyergy9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/card-stats/revenue.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3cKetzWUzvT5Vc4jsvZaGChWrxH0Bh6JgIljTJZbc0="
+        }
+      ]
+    },
+    {
+      "Route": "images/card-stats/revenue.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\revenue.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3cKetzWUzvT5Vc4jsvZaGChWrxH0Bh6JgIljTJZbc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3cKetzWUzvT5Vc4jsvZaGChWrxH0Bh6JgIljTJZbc0="
+        }
+      ]
+    },
+    {
+      "Route": "images/caution.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\caution.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xvKg40RHEdlmz6m7HwLi5r1+w0n8neB0nwObSFIwLPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:07:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvKg40RHEdlmz6m7HwLi5r1+w0n8neB0nwObSFIwLPY="
+        }
+      ]
+    },
+    {
+      "Route": "images/caution.uak4zcou0u.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\caution.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xvKg40RHEdlmz6m7HwLi5r1+w0n8neB0nwObSFIwLPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:07:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uak4zcou0u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/caution.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvKg40RHEdlmz6m7HwLi5r1+w0n8neB0nwObSFIwLPY="
+        }
+      ]
+    },
+    {
       "Route": "images/chevron-right.svg",
       "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\chevron-right.svg",
       "Selectors": [],
@@ -1549,6 +2085,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-qkEzojqv34C+7tPEbFTycgf+ESLtkz2XNcc/UkVTyBQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/green-arrow.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\green-arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kStiSMBwSgnjK6Q3K9w8vGg/G4IdP5mWo69pp2vtIdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kStiSMBwSgnjK6Q3K9w8vGg/G4IdP5mWo69pp2vtIdQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/green-arrow.vsmgtcx0y6.svg",
+      "AssetFile": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\green-arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kStiSMBwSgnjK6Q3K9w8vGg/G4IdP5mWo69pp2vtIdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 07:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vsmgtcx0y6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/green-arrow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kStiSMBwSgnjK6Q3K9w8vGg/G4IdP5mWo69pp2vtIdQ="
         }
       ]
     },

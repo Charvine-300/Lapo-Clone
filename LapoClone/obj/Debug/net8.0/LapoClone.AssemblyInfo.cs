@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LapoClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+615be4bb513fd9e18063e096dbd5442efa88e914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c41abd2d6ee2fd30801aa8ae32a87e72eff9a5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LapoClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LapoClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

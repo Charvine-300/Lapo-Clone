@@ -4,10 +4,16 @@ wwwroot\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
 wwwroot\images\add.svg
 wwwroot\images\calendar.svg
+wwwroot\images\card-stats\active-cards.svg
+wwwroot\images\card-stats\personalized-cards.svg
+wwwroot\images\card-stats\requests.svg
+wwwroot\images\card-stats\revenue.svg
+wwwroot\images\caution.svg
 wwwroot\images\chevron-right.svg
 wwwroot\images\dashboard.svg
 wwwroot\images\edit.svg
 wwwroot\images\file-upload.svg
+wwwroot\images\green-arrow.svg
 wwwroot\images\logo.svg
 wwwroot\images\navbar\account.svg
 wwwroot\images\navbar\auth-list.svg

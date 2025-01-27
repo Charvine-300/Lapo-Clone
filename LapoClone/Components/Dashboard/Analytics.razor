@@ -1,15 +1,27 @@
 ﻿<div class="mt-4">
-<div class="flex gap-2 items-center">
-	<h6 class="font-medium text-lg"> Analytics </h6>
-	<div class="flex-1 bg-gray-300 h-[1px] rounded-full"></div>
-</div>
+	<div class="flex gap-2 items-center">
+		<h6 class="font-bold text-lg"> Analytics </h6>
+		<div class="flex-1 bg-gray-300 h-[1px] rounded-full"></div>
+	</div>
 
 	@* Cards Analytics *@
-	<div class="flex gap-3">
-
+	<div class="flex flex-col md:flex-row flex-wrap gap-3 mt-3 lg:justify-between lg:gap-0">
+		@foreach (var item in cardStatsItems) 
+		{
+			<StatsCard CardStat="@item.CardStat" CardStatImg="@item.CardStatImg" CardStatName="@item.CardStatName" CardStatPeriod="@item.CardStatPeriod" CardStatRating="@item.CardStatRating" RequiresAttention="@item.RequiresAttention"/>
+		}
 	</div>
 </div>
 
 @code {
+@using LapoClone.Components.Constants
 
+	new List<CardStats> cardStatsItems = new List<CardStats>
+	{
+		new CardStats { CardStatImg = "/images/card-stats/active-cards.svg", CardStat = "26,478", CardStatName = "Total Active Cards", CardStatPeriod = "this month", CardStatRating = 9 },
+		new CardStats { CardStatImg = "/images/card-stats/personalized-cards.svg", CardStat = "15,703", CardStatName = "Total Personalized Cards", CardStatPeriod = "this month", CardStatRating = 8.5 },
+		new CardStats { CardStatImg = "/images/card-stats/revenue.svg", CardStat = "₦9.3M", CardStatName = "Today’s Revenue", CardStatPeriod = "vs yesterday", CardStatRating = 6 },
+		new CardStats { CardStatImg = "/images/card-stats/requests.svg", CardStat = "38", CardStatName = "Pending Requests", RequiresAttention = true },
+	};
 }
+

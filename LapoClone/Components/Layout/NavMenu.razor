@@ -16,7 +16,7 @@
         <p class="uppercase font-light text-xs text-black/60"> main menu </p>
         @* Navigation menu items *@
         @foreach (var item in menuItems) {
-            <div class="flex items-center gap-2 nav-link my-3 hover:bg-gray-50 rounded-md border !border-transparent hover:!border-gray-200 hover:text-blue-700  cursor-pointer">
+            <div class="flex items-center gap-2 nav-link my-3 hover:bg-gray-50 rounded-md border !border-transparent hover:!border-gray-200 hover:text-blue-700  cursor-pointer" style="@GetNavLinkStyle(item.Url)">
              <img src="@item.Icon" alt="@item.Text" />
             <NavLink class="text-black/50 capitalize" href="@item.Url" Match="NavLinkMatch.All">
                 @item.Text
@@ -28,6 +28,8 @@
 
 @code {
 @using LapoClone.Components.Constants
+@inject NavigationManager NavigationManager
+
 
     private List<NavbarItems> menuItems = new List<NavbarItems>
     {
@@ -44,4 +46,10 @@
         new NavbarItems { Text = "trail", Url = "trail", Icon = "images/navbar/trail.svg" },
         new NavbarItems { Text = "account", Url = "user", Icon = "images/navbar/account.svg" },
     }; 
+
+    private string GetNavLinkStyle(string url)
+    {
+        var isActive = NavigationManager.Uri.EndsWith(url, StringComparison.OrdinalIgnoreCase);
+        return isActive ? "background-color: #f0f4ff; border: 1px solid #cbd5e1; color: 1D4ED8;" : "";
+    }
 }

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\pages\\branches.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\pages\\branches.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\dashboard\\statscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\dashboard\\statscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\dashboard\\analytics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\dashboard\\analytics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\constants\\cardstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\constants\\cardstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\pages\\roles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\pages\\roles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\headsection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\headsection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\dashboard\\analytics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\dashboard\\analytics.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\dashboard\\cardfeature.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|solutionrelative:lapoclone\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C58E78F2-C35D-4274-AEAD-8102685D060B}|LapoClone\\LapoClone.csproj|c:\\users\\marvi\\desktop\\mercrator\\lapoclone\\lapoclone\\components\\dashboard\\introsection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,60 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Roles.razor",
-              "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Pages\\Roles.razor",
-              "RelativeDocumentMoniker": "LapoClone\\Components\\Pages\\Roles.razor",
-              "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Pages\\Roles.razor",
-              "RelativeToolTip": "LapoClone\\Components\\Pages\\Roles.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T23:47:39.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HeadSection.razor",
-              "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\HeadSection.razor",
-              "RelativeDocumentMoniker": "LapoClone\\Components\\HeadSection.razor",
-              "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\HeadSection.razor",
-              "RelativeToolTip": "LapoClone\\Components\\HeadSection.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T23:02:02.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Branches.razor",
-              "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Pages\\Branches.razor",
-              "RelativeDocumentMoniker": "LapoClone\\Components\\Pages\\Branches.razor",
-              "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Pages\\Branches.razor",
-              "RelativeToolTip": "LapoClone\\Components\\Pages\\Branches.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T22:57:32.317Z",
+              "DocumentIndex": 2,
+              "Title": "CardStats.cs",
+              "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Constants\\CardStats.cs",
+              "RelativeDocumentMoniker": "LapoClone\\Components\\Constants\\CardStats.cs",
+              "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Constants\\CardStats.cs",
+              "RelativeToolTip": "LapoClone\\Components\\Constants\\CardStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:22:08.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "StatsCard.razor",
+              "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Dashboard\\StatsCard.razor",
+              "RelativeDocumentMoniker": "LapoClone\\Components\\Dashboard\\StatsCard.razor",
+              "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Dashboard\\StatsCard.razor",
+              "RelativeToolTip": "LapoClone\\Components\\Dashboard\\StatsCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T06:57:12.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Analytics.razor",
               "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Dashboard\\Analytics.razor",
               "RelativeDocumentMoniker": "LapoClone\\Components\\Dashboard\\Analytics.razor",
               "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Dashboard\\Analytics.razor",
               "RelativeToolTip": "LapoClone\\Components\\Dashboard\\Analytics.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T10:39:37.008Z"
+              "WhenOpened": "2025-01-24T10:39:37.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "LapoClone\\Components\\Layout\\MainLayout.razor",
@@ -111,17 +97,18 @@
               "RelativeToolTip": "LapoClone\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-24T10:30:40.107Z"
+              "WhenOpened": "2025-01-24T10:30:40.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "LapoClone\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "LapoClone\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-24T10:01:09.976Z",
               "EditorCaption": ""
@@ -140,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IntroSection.razor",
               "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Dashboard\\IntroSection.razor",
               "RelativeDocumentMoniker": "LapoClone\\Components\\Dashboard\\IntroSection.razor",
@@ -152,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "LapoClone\\Components\\Pages\\Home.razor",
@@ -160,7 +147,8 @@
               "RelativeToolTip": "LapoClone\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T14:04:57.751Z"
+              "WhenOpened": "2025-01-23T14:04:57.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -1,3 +1,7 @@
+* {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
 html, body {
     font-family: "Roboto", serif;
 }
@@ -33,6 +37,11 @@ th, td {
 
 th:last-child, td:last-child {
     border-right: none;
+}
+
+button:hover {
+    transform: translateY(-2px); /* Slight upward lift */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow to indicate hover */
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {

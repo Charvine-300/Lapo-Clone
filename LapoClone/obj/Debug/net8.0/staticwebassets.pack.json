@@ -29,6 +29,26 @@
       "PackagePath": "staticwebassets\\images\\calendar.svg"
     },
     {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\active-cards.svg",
+      "PackagePath": "staticwebassets\\images\\card-stats\\active-cards.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\personalized-cards.svg",
+      "PackagePath": "staticwebassets\\images\\card-stats\\personalized-cards.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\requests.svg",
+      "PackagePath": "staticwebassets\\images\\card-stats\\requests.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\card-stats\\revenue.svg",
+      "PackagePath": "staticwebassets\\images\\card-stats\\revenue.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\caution.svg",
+      "PackagePath": "staticwebassets\\images\\caution.svg"
+    },
+    {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\chevron-right.svg",
       "PackagePath": "staticwebassets\\images\\chevron-right.svg"
     },
@@ -43,6 +63,10 @@
     {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\file-upload.svg",
       "PackagePath": "staticwebassets\\images\\file-upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\green-arrow.svg",
+      "PackagePath": "staticwebassets\\images\\green-arrow.svg"
     },
     {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\logo.svg",

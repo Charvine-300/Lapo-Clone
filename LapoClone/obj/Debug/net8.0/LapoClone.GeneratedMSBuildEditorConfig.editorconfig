@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXNoYm9hcmRcSW50cm9TZWN0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/Dashboard/StatsCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXNoYm9hcmRcU3RhdHNDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/marvi/Desktop/Mercrator/LapoClone/LapoClone/Components/HeadSection.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkU2VjdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
