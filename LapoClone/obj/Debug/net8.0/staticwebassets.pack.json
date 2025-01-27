@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\images\\dashboard.svg"
     },
     {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\edit.svg",
+      "PackagePath": "staticwebassets\\images\\edit.svg"
+    },
+    {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\file-upload.svg",
       "PackagePath": "staticwebassets\\images\\file-upload.svg"
     },
@@ -115,6 +119,10 @@
     {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\search.svg",
       "PackagePath": "staticwebassets\\images\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\trash.svg",
+      "PackagePath": "staticwebassets\\images\\trash.svg"
     },
     {
       "Id": "C:\\Users\\marvi\\Desktop\\Mercrator\\LapoClone\\LapoClone\\wwwroot\\images\\update.svg",

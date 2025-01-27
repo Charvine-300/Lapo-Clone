@@ -3,6 +3,47 @@
 
 <HeadSection Heading="Branches" Description="Add branches, view branches and edit branches." MiscAction="Upload File" MiscActionImg="/images/file-upload.svg" AddSearch PrimaryAction="add branch" SecondaryAction="update from core" SecondaryActionImg="/images/update.svg" />
 
-@code {
+<div class="relative overflow-x-auto mt-4">
+    <table class="w-full text-sm text-left rtl:text-right text-gray-500 border border-gray-300">
+        <thead class="text-gray-800 capitalize bg-gray-100">
+            <tr class="border-b border-gray-300">
+                <th>Name</th>
+                <th>Code</th>
+                <th>Address</th>
+                <th>Zone</th>
+                <th>Date Added</th>
+                <th class="text-center">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in tableRows) {
+            <tr class="bg-white border-b border-gray-300">
+                <td>@item.Name</td>
+                <td>@item.Code</td>
+                <td>@item.Address</td>
+                <td>@item.Zone</td>
+                <td>@item.DateAdded </td>
+                <td class="flex gap-4 items-center justify-center">
+                    <img class="cursor-pointer" src="/images/trash.svg" alt="Trash Icon" />
+                    <img class="cursor-pointer" src="/images/edit.svg" alt="Edit Icon" />
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
 
+</div>
+
+@code {
+    @using LapoClone.Components.Constants
+
+    private List<BranchesTable> tableRows = new List<BranchesTable>
+    {
+        new BranchesTable { Name = "Silver", Code = "Laptop", Address = "$2999", Zone = "Zone 1", DateAdded = "01/01/2022" },
+        new BranchesTable{ Name = "Gold", Code = "Phone", Address = "$1999", Zone = "Zone 2", DateAdded = "05/03/2021" },
+        new BranchesTable { Name = "Platinum", Code = "Tablet", Address = "$3999", Zone = "Zone 3", DateAdded = "11/12/2020" },
+        new BranchesTable { Name = "Diamond", Code = "Watch", Address = "$4999", Zone = "Zone 4", DateAdded = "07/07/2019" },
+        new BranchesTable { Name = "Bronze", Code = "Headset", Address = "$599", Zone = "Zone 5", DateAdded = "02/11/2023" }
+    };
 }
+

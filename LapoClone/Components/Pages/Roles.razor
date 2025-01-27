@@ -3,7 +3,41 @@
 
 <HeadSection Heading="Roles" Description="Manage your roles, create roles, view roles and edit roles. Select privileges and set account permissions here." AddSearch PrimaryAction="add role" />
 
+<div class="relative overflow-x-auto mt-4">
+    <table class="w-full text-sm text-left rtl:text-right text-gray-500 border border-gray-300">
+        <thead class="text-gray-800 capitalize bg-gray-100">
+            <tr class="border-b border-gray-300">
+                <th>Name</th>
+                <th class="text-center">Date</th>
+                <th class="text-center">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in tableRows)
+            {
+                <tr class="bg-white border-b border-gray-300">
+                    <td>@item.Name</td>
+                    <td class="text-center">@item.DateCreated </td>
+                    <td class="flex gap-4 items-center justify-center">
+                        <img class="cursor-pointer" src="/images/trash.svg" alt="Trash Icon" />
+                        <img class="cursor-pointer" src="/images/edit.svg" alt="Edit Icon" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+        
+</div>
 
 @code {
+    @using LapoClone.Components.Constants
 
+    private List<RolesTable> tableRows = new List<RolesTable>
+    {
+        new RolesTable { Name = "Silver", DateCreated = "01/01/2022" },
+        new RolesTable{ Name = "Gold", DateCreated = "05/03/2021" },
+        new RolesTable { Name = "Platinum", DateCreated = "11/12/2020" },
+        new RolesTable { Name = "Diamond", DateCreated = "07/07/2019" },
+        new RolesTable { Name = "Bronze", DateCreated = "02/11/2023" }
+    };
 }

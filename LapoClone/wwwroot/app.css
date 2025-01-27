@@ -12,6 +12,29 @@ a, .btn-link {
     border-color: #1861ac;
 }
 
+th {
+    padding-top: 0.75rem; /* 12px */
+    padding-bottom: 0.75rem; /* 12px */
+    font-size: 16px;
+    font-weight: 500;
+}
+
+td {
+
+    padding-top: 1rem; /* py-4 equivalent */
+    padding-bottom: 1rem; /* py-4 equivalent */
+}
+
+th, td {
+    padding-left: 1.5rem; /* 24px */
+    padding-right: 1.5rem; /* 24px */
+    border-right: 1px solid #D1D5DB; /* border-gray-300 */
+}
+
+th:last-child, td:last-child {
+    border-right: none;
+}
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }

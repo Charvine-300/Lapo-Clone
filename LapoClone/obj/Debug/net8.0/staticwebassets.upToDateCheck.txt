@@ -6,6 +6,7 @@ wwwroot\images\add.svg
 wwwroot\images\calendar.svg
 wwwroot\images\chevron-right.svg
 wwwroot\images\dashboard.svg
+wwwroot\images\edit.svg
 wwwroot\images\file-upload.svg
 wwwroot\images\logo.svg
 wwwroot\images\navbar\account.svg
@@ -26,5 +27,6 @@ wwwroot\images\quick-access\manage-card.svg
 wwwroot\images\quick-access\personalized-card.svg
 wwwroot\images\quick-access\review-card-requests.svg
 wwwroot\images\search.svg
+wwwroot\images\trash.svg
 wwwroot\images\update.svg
 wwwroot\images\user.svg
