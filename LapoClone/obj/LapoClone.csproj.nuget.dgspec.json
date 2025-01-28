@@ -50,6 +50,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Syncfusion.Blazor.Charts": {
+              "target": "Package",
+              "version": "[28.1.41, )"
+            },
+            "Syncfusion.Blazor.Navigations": {
+              "target": "Package",
+              "version": "[28.1.41, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[28.1.41, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

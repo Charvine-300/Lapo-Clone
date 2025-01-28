@@ -10,4 +10,10 @@
     <Folder Include="wwwroot\images\quick-access\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Blazor.Charts" Version="28.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.Navigations" Version="28.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.Themes" Version="28.1.41" />
+  </ItemGroup>
+
 </Project>
